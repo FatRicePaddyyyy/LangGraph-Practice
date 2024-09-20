@@ -1,1 +1,3 @@
 # LangGraph-Practice
+LangChainでエージェントやRAGを作るのは大変に感じてきたので，普段LangChainで書いていたものを少しづつLangChainを使わないものに変更したいですね...
+最終目標はgeminiやopenaiのライブラリだけでRAGシステムを開発することです．
